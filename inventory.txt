@@ -1,0 +1,5 @@
+Laptop,5,899.99
+Keyboard,12,49.99
+Mouse,20,24.99
+Monitor,8,249.99
+iPad,2,1200.0
